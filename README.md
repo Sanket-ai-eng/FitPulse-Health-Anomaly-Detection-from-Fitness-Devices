@@ -30,6 +30,7 @@ NumPy
 Matplotlib 
 Seaborn
 
+Dataset url: https://www.kaggle.com/datasets/sanket28/fitpulse-wearable-device-data-csv
 
 👨‍💻 Author
 
