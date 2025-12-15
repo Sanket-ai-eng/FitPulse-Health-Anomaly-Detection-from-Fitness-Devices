@@ -20,7 +20,7 @@ step_count
 sleep_tracking
 timestamp
 
-🛠 Technologies Used
+Technologies Used
 
 Python
 Pandas
