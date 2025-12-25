@@ -4,6 +4,7 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 
 
 
+
 - Features
  
 - Time-series data preprocessing
@@ -27,3 +28,6 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 Kaggle Dataset URL-https://www.kaggle.com/datasets/arashnic/fitbit
 
 
+-Author
+
+Sanket Yadav GitHub: https://github.com/Sanket-ai-eng
