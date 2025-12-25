@@ -21,9 +21,9 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 - **Python**
 - **Pandas & NumPy**
 - **TSFresh**
-- **Facebook Prophet**
+- **Prophet**
 - **Scikit-learn**
-- **Matplotlib / Seaborn**
+- **Matplotlib**
 
 
  - Dataset
