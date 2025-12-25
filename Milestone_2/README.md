@@ -1,11 +1,11 @@
-- Problem Statement
+ - Problem Statement
 Fitness devices generate continuous time-series data, but raw data often contains noise, missing values, and irregular patterns.  
 Detecting anomalies in such data can help identify abnormal health conditions early and improve personal health monitoring systems.
 
 
 
 
-- Features
+ - Features
  
 - Time-series data preprocessing
 - Feature extraction using **TSFresh**
@@ -15,7 +15,8 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 
 
 
-- Technologies Used
+ - Technologies Used
+ 
 - **Python**
 - **Pandas & NumPy**
 - **TSFresh**
