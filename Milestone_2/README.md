@@ -1,4 +1,5 @@
- - Problem Statement
+- Problem Statement
+
 Fitness devices generate continuous time-series data, but raw data often contains noise, missing values, and irregular patterns.  
 Detecting anomalies in such data can help identify abnormal health conditions early and improve personal health monitoring systems.
 
