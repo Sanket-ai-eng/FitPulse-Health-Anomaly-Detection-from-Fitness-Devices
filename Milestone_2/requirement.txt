@@ -1,0 +1,11 @@
+Python
+
+Pandas & NumPy
+
+TSFresh
+
+Prophet
+
+Scikit-learn
+
+Matplotlib
