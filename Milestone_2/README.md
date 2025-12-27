@@ -26,10 +26,10 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 - **Matplotlib**
 
 
- -- Dataset
+ - Dataset
 Kaggle Dataset URL-https://www.kaggle.com/datasets/arashnic/fitbit
 
 
---Author
+- Author
 
 Sanket Yadav GitHub: https://github.com/Sanket-ai-eng
