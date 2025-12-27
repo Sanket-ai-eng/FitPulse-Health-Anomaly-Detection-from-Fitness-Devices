@@ -16,6 +16,8 @@ Detecting anomalies in such data can help identify abnormal health conditions ea
 
 
 
+
+
  - Technologies Used
  
 - **Python**
