@@ -81,6 +81,10 @@ A data point is considered an anomaly if **any one** of the above methods flags 
 
 ---
 
-## 👤 Author
+## Dataset
 
-**Sanket**
+Dataset Kaggle Dataset URL-https://www.kaggle.com/datasets/arashnic/fitbit
+
+## Author
+
+Sanket Yadav GitHub: https://github.com/Sanket-ai-eng
