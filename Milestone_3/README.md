@@ -73,38 +73,6 @@ A data point is considered an anomaly if **any one** of the above methods flags 
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn prophet
-```
-
-2. Place `dailyActivity_merged.csv` in the project directory
-
-3. Run the Python script:
-
-```bash
-python anomaly_detection.py
-```
-
----
-
-##  Output
-
-* Console output:
-
-  * First 3 rows of the dataset
-  * Sample detected anomalies
-
-* Graphical output:
-
-  * Full time-series plot with anomalies highlighted
-  * Zoomed-in time window plot
-
----
-
 ##  Key Learning Outcomes
 
 * Understanding different anomaly detection approaches
