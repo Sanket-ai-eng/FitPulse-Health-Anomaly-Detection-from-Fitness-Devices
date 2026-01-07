@@ -1,6 +1,6 @@
 # Milestone 3: Anomaly Detection and Visualization
 
-## 📌 Objective
+## Objective
 
 The objective of this milestone is to:
 
