@@ -102,14 +102,8 @@ anomaly_detection.ipynb
 * Visualized and interpreted anomalous behavior
 
 ---
+-Kaggle Dataset url: https://www.kaggle.com/datasets/sanket28/fitpulse-wearable-device-data-csv
 
-## 📝 Report Statement
+-Author
 
-> "Anomalies in heart rate and sleep patterns were detected using statistical thresholds, KMeans clustering, and Prophet residual analysis, and visualized using time-series plots."
-
----
-
-## 👤 Author
-
-**Sanket**
-
+Sanket Yadav GitHub: https://github.com/Sanket-ai-eng
