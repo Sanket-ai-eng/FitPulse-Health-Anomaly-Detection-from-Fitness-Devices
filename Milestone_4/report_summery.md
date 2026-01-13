@@ -69,5 +69,3 @@ The dashboard follows a clear and modular workflow:
 (*Screenshots to be captured from the Streamlit dashboard execution in Google Colab*)
 
 ---
-
-**End of Report**
