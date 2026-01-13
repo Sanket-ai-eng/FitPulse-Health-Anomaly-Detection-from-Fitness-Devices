@@ -66,6 +66,4 @@ The dashboard follows a clear and modular workflow:
 * **Figure 4:** Step Count Behavior Visualization
 * **Figure 5:** Anomaly Summary Report Download Section
 
-(*Screenshots to be captured from the Streamlit dashboard execution in Google Colab*)
-
 ---
